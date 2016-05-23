@@ -1,4 +1,4 @@
-package com.wikidreams.http;
+package org.wikidreams.http;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;

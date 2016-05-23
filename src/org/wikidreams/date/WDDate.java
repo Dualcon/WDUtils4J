@@ -1,4 +1,4 @@
-package com.wikidreams.date;
+package org.wikidreams.date;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

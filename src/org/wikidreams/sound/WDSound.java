@@ -1,4 +1,4 @@
-package com.wikidreams.sound;
+package org.wikidreams.sound;
 
 import java.io.File;
 import java.io.IOException;
